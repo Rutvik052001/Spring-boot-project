@@ -12,5 +12,5 @@ public class TicketInfo {
 	private String lname;
 	private String fromCity;
 	private String toCity;
-    private String address;
+
 }
